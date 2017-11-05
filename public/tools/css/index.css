@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+.toolTop{width:1060px;height:80px;border:0px solid #ddd;margin:0 auto;font: 32px 微软雅黑;margin-top:15px;text-align:center;line-height:80px;background: #f9f9f9;border-radius: 10px;}
+.toolBox{width:1060px;height:auto;border:0px solid #ddd;margin:0 auto;padding-bottom:15px;margin-top:25px;}
+.toolBox .toolBoxTop{width:300px;height:40px;font: 25px 微软雅黑;color:#333;}
+.toolBox .toolBoxMain{width:1060px;height:auto;margin-top:10px;}
+.toolBox .toolBoxMain ul{width:1060px;height:auto;}
+.toolBox .toolBoxMain li{width: 315px;height: 60px;border: 1px solid #ddd;padding:8px;float: left;margin:8px;background: #f6f6f6;}
+.toolBox .toolBoxMain li .itemImg{width:50px;height:50px;border:0px solid #ddd;float:left;}
+.toolBox .toolBoxMain li .itemInfo{width:230px;height:60px;float:right;}
+.toolBox .toolBoxMain li .itemInfo .itemTitle{width:230px;height:20px;font-size:10pt;line-height:20px;color:#3E62A6;font-weight: bold;}
+.toolBox .toolBoxMain li .itemInfo .itemCon{width:230px;height:35px;font-size:9pt;line-height:18px;color:#9A9A9A;overflow:hidden;}
+
+
+
+
+.toolMain{width:1060px;height: auto;margin:0 auto;margin-top: 25px;}
+.toolMain h1{font: 32px 微软雅黑;display:block;height: 60px;font-weight: bold;}
+.toolMain h2{font: 11pt 微软雅黑;display:block;height: 20px;color: #999;}
+
+/* 文本域 */
+.toolarea{padding:4px;margin:10px 0;font-size:15px;width:950px;height:24px;line-height:24px;color:#333;height:400px;display:block}
+
+
+
+/* 按钮 */
+.bt-blue{font-size:14px;border:none;line-height:33px;background:#4899E0;font-weight:bold;color:#FFF;cursor:pointer;padding:0 18px;margin-right:12px}
+.bt-blue:hover{background:#368DD9;text-decoration:none}
+.bt-green {font-size:14px;border:none;line-height:33px;background:#6FB934;font-weight:bold;color:#FFF;cursor:pointer;padding:0 18px;margin-right:12px}
+.bt-green:hover{background:#5FA924;text-decoration:none}
+.bt-grey {font-size:14px;border:none;line-height:33px;background:#DDD;font-weight:bold;color:#666;cursor:pointer;padding:0 18px;margin-right:12px}
+.bt-grey:hover{background:#CCC;text-decoration:none}
